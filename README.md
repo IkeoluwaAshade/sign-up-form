@@ -2,7 +2,8 @@
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-![](https://github.com/IkeoluwaAshade/sign-up-form/blob/main/design/desktop-design.jpg)
+Desktop view ![](https://github.com/IkeoluwaAshade/sign-up-form/blob/main/design/desktop-design.jpg)
+Mobile view ![](https://github.com/IkeoluwaAshade/sign-up-form/blob/main/design/mobile-design.jpg)
 
 ## Table of contents
 
